@@ -58,8 +58,12 @@ export class AuthCommands {
   /**
    * Авторизация с валидными данными по умолчанию
    */
-  async loginWithValidCredentials(): Promise<void> {
+  async loginWithValidEmailCredentials(): Promise<void> {
     await this.loginWithEmail();
+  }
+
+  async loginWithValidPhoneCredentials(): Promise<void> {
+    await this.loginWithPhone();
   }
 
   /**
@@ -83,13 +87,20 @@ export class AuthCommands {
   /**
    * Гарантирует, что пользователь авторизован
    */
-  async ensureLoggedIn(): Promise<void> {
+  async ensureLoggedInByEmail(): Promise<void> {
     /*await this.page.goto(Routes.HOME);
     await this.page.waitForLoadState('domcontentloaded');*/
 
     const isLoggedIn = await this.isUserLoggedIn();
     if (!isLoggedIn) {
-      await this.loginWithValidCredentials();
+      await this.loginWithValidEmailCredentials();
+    }
+  }
+
+  async ensureLoggedInByPhone(): Promise<void> {
+    const isLoggedIn = await this.isUserLoggedIn();
+    if (!isLoggedIn) {
+      await this.loginWithValidPhoneCredentials();
     }
   }
 
