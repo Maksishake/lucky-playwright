@@ -1,0 +1,3327 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - img "close" [ref=e6] [cursor=pointer]
+    - generic [ref=e7]:
+      - img "Bitcapital" [ref=e9]
+      - generic [ref=e10]: Мало грошей на балансі?
+      - generic [ref=e11]: Переходь та отримай 60 000₴ з -99% знижки!
+      - generic [ref=e12]: Виплата швидка, анонімна, в реальному часі, і одразу в крипті! Подавай заявку з промо BK99, і забирай зараз!
+      - generic [ref=e13]: "*Доступно лише за відсутності активного займу в Bitcapital."
+      - link "Оформити займ" [ref=e14] [cursor=pointer]:
+        - /url: https://bitcapital.top/?utm_source=lucky&utm_medium=button_lc&utm_campaign=potribny_groshi
+  - banner [ref=e15]:
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - button [ref=e18] [cursor=pointer]
+        - generic [ref=e19]:
+          - link [ref=e21] [cursor=pointer]:
+            - /url: https://luckycoin777.live
+          - link "Бонуси 9" [ref=e22] [cursor=pointer]:
+            - /url: https://luckycoin777.live/bonuses
+            - generic [ref=e24] [cursor=pointer]: Бонуси
+            - generic [ref=e25] [cursor=pointer]: "9"
+          - button [ref=e26] [cursor=pointer]:
+            - img [ref=e28] [cursor=pointer]
+      - generic [ref=e31]:
+        - generic [ref=e34] [cursor=pointer]:
+          - generic [ref=e36] [cursor=pointer]: "0.00"
+          - button "Поповнити" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38] [cursor=pointer]: Поповнити
+        - img [ref=e43] [cursor=pointer]
+  - main [ref=e48]:
+    - generic [ref=e49]:
+      - list [ref=e51]:
+        - listitem [ref=e52]:
+          - link [ref=e53] [cursor=pointer]:
+            - /url: https://luckycoin777.live/category/all
+            - img [ref=e54] [cursor=pointer]
+        - listitem [ref=e56]:
+          - link [ref=e57] [cursor=pointer]:
+            - /url: https://luckycoin777.live/category/popular
+        - listitem [ref=e58]:
+          - link [ref=e59] [cursor=pointer]:
+            - /url: https://luckycoin777.live/category/new
+        - listitem [ref=e60]:
+          - link [ref=e61] [cursor=pointer]:
+            - /url: https://luckycoin777.live/category/slots
+        - listitem [ref=e62]:
+          - link [ref=e63] [cursor=pointer]:
+            - /url: https://luckycoin777.live/category/buy-bonus
+        - listitem [ref=e64]:
+          - link [ref=e65] [cursor=pointer]:
+            - /url: https://luckycoin777.live/category/live-casino
+        - listitem [ref=e66]:
+          - link [ref=e67] [cursor=pointer]:
+            - /url: https://luckycoin777.live/category/show-games
+        - listitem [ref=e68]:
+          - link [ref=e69] [cursor=pointer]:
+            - /url: https://luckycoin777.live/favorite
+            - img [ref=e70] [cursor=pointer]
+        - listitem [ref=e73]
+        - listitem [ref=e74]:
+          - link [ref=e75] [cursor=pointer]:
+            - /url: https://luckycoin777.live/bonuses
+        - listitem [ref=e76]:
+          - link [ref=e77] [cursor=pointer]:
+            - /url: https://luckycoin777.live/tournaments
+        - listitem [ref=e78]:
+          - link [ref=e79] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e80]:
+        - link [ref=e82] [cursor=pointer]:
+          - /url: https://bitcapital.top/?utm_source=lucky&utm_medium=button_lc&utm_campaign=potribny_groshi
+        - generic [ref=e83]:
+          - button [ref=e84] [cursor=pointer]
+          - button [ref=e85] [cursor=pointer]:
+            - img [ref=e87] [cursor=pointer]
+    - generic [ref=e89]:
+      - region [ref=e92]:
+        - generic [ref=e93]:
+          - tabpanel [ref=e94]
+          - tabpanel [ref=e96]
+          - tabpanel "1 of 5" [ref=e98]:
+            - generic [ref=e99]:
+              - link:
+                - /url: "#"
+          - tabpanel [ref=e100]
+          - tabpanel [ref=e102]:
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - generic [ref=e107]: Отримуйте інформацію першими!
+                - generic [ref=e108]: Підпишіться на наш Telegram-канал та отримуйте інформацію про нові бонуси та турніри раніше за всіх
+              - link [ref=e110] [cursor=pointer]:
+                - /url: https://m.sitehelp.me/telegram?siteId=7boeonz2gwrzmu4eje7p97hvp7icae5f&clientId=tdkqC5ThTpaCLq0lMx5Ct9BSkNW7eLwH&url=https%3A%2F%2Ft.me%2Flucky_coin_game_bot
+                - text: Підписатися
+          - tabpanel [ref=e112]
+          - tabpanel [ref=e114]
+          - tabpanel [ref=e116]
+          - tabpanel [ref=e118]
+        - tablist "Select a slide to show":
+          - tab "Go to slide 1" [selected] [ref=e120] [cursor=pointer]
+          - tab "Go to slide 2" [ref=e121] [cursor=pointer]
+          - tab "Go to slide 3" [ref=e122] [cursor=pointer]
+          - tab "Go to slide 4" [ref=e123] [cursor=pointer]
+          - tab "Go to slide 5" [ref=e124] [cursor=pointer]
+      - generic [ref=e125]:
+        - generic [ref=e126] [cursor=pointer]: Go за грошима ➔
+        - img "QR Code" [ref=e127] [cursor=pointer]
+        - link "Забрати" [ref=e128] [cursor=pointer]:
+          - /url: https://bitcapital.top/?utm_source=lucky&utm_medium=button_lc&utm_campaign=potribny_groshi
+      - generic [ref=e131]:
+        - generic [ref=e133] [cursor=pointer]:
+          - img [ref=e135] [cursor=pointer]
+          - button "Усі категоріїㅤㅤ" [ref=e137] [cursor=pointer]
+        - region [ref=e139]:
+          - button "Next slide" [ref=e140] [cursor=pointer]:
+            - img [ref=e141] [cursor=pointer]
+          - generic [ref=e143]:
+            - group "1 of 26" [ref=e144] [cursor=pointer]:
+              - generic [ref=e145] [cursor=pointer]: Усі
+              - generic [ref=e146] [cursor=pointer]: 6100+
+            - group "2 of 26" [ref=e147] [cursor=pointer]:
+              - generic [ref=e148] [cursor=pointer]: Popular
+            - group "3 of 26" [ref=e149] [cursor=pointer]:
+              - generic [ref=e150] [cursor=pointer]: New
+            - group "4 of 26" [ref=e151] [cursor=pointer]:
+              - generic [ref=e152] [cursor=pointer]: Slots
+            - group "5 of 26" [ref=e153] [cursor=pointer]:
+              - generic [ref=e154] [cursor=pointer]: Arcade
+            - group "6 of 26" [ref=e155] [cursor=pointer]:
+              - generic [ref=e156] [cursor=pointer]: Baccarat
+            - group [ref=e157] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]: Bingo
+            - group [ref=e159] [cursor=pointer]:
+              - generic [ref=e160] [cursor=pointer]: Blackjack
+            - group [ref=e161] [cursor=pointer]:
+              - generic [ref=e162] [cursor=pointer]: Buy Bonus
+            - group [ref=e163] [cursor=pointer]:
+              - generic [ref=e164] [cursor=pointer]: Crash Game
+            - group [ref=e165] [cursor=pointer]:
+              - generic [ref=e166] [cursor=pointer]: Dice
+            - group [ref=e167] [cursor=pointer]:
+              - generic [ref=e168] [cursor=pointer]: Fishing/Shooting
+            - group [ref=e169] [cursor=pointer]:
+              - generic [ref=e170] [cursor=pointer]: Free Bonus
+            - group [ref=e171] [cursor=pointer]:
+              - generic [ref=e172] [cursor=pointer]: Jackpot
+            - group [ref=e173] [cursor=pointer]:
+              - generic [ref=e174] [cursor=pointer]: Live Casino
+            - group [ref=e175] [cursor=pointer]:
+              - generic [ref=e176] [cursor=pointer]: Lottery
+            - group [ref=e177] [cursor=pointer]:
+              - generic [ref=e178] [cursor=pointer]: Mines
+            - group [ref=e179] [cursor=pointer]:
+              - generic [ref=e180] [cursor=pointer]: Other
+            - group [ref=e181] [cursor=pointer]:
+              - generic [ref=e182] [cursor=pointer]: Plinko
+            - group [ref=e183] [cursor=pointer]:
+              - generic [ref=e184] [cursor=pointer]: Poker
+            - group [ref=e185] [cursor=pointer]:
+              - generic [ref=e186] [cursor=pointer]: Progression Feature
+            - group [ref=e187] [cursor=pointer]:
+              - generic [ref=e188] [cursor=pointer]: Roulette
+            - group [ref=e189] [cursor=pointer]:
+              - generic [ref=e190] [cursor=pointer]: Scratch Cards
+            - group [ref=e191] [cursor=pointer]:
+              - generic [ref=e192] [cursor=pointer]: Table Games
+            - group [ref=e193] [cursor=pointer]:
+              - generic [ref=e194] [cursor=pointer]: Show Games
+            - group [ref=e195] [cursor=pointer]:
+              - generic [ref=e196] [cursor=pointer]: Grow Bonus
+        - generic [ref=e198] [cursor=pointer]:
+          - img [ref=e200] [cursor=pointer]
+          - button "Постачальникиㅤㅤ" [ref=e202] [cursor=pointer]
+        - button [ref=e203] [cursor=pointer]:
+          - img [ref=e205] [cursor=pointer]
+      - region [ref=e209]:
+        - generic [ref=e210]:
+          - generic [ref=e214]: POPULAR
+          - generic [ref=e216]:
+            - button "Переглянути всі" [ref=e217] [cursor=pointer]:
+              - generic [ref=e218] [cursor=pointer]: Переглянути всі
+            - generic [ref=e219]:
+              - button "Go to last slide" [ref=e220] [cursor=pointer]
+              - button "Next slide" [ref=e221] [cursor=pointer]
+        - generic [ref=e222]:
+          - tabpanel "1 of 3" [ref=e223]:
+            - list [ref=e224]:
+              - listitem [ref=e225]:
+                - generic [ref=e226]:
+                  - generic:
+                    - generic: Hell Hot 100
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e227]:
+                - generic [ref=e228]:
+                  - generic:
+                    - generic: Aviatrix
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Aviatrix
+              - listitem [ref=e229]:
+                - generic [ref=e230]:
+                  - generic:
+                    - generic: Sugar Rush
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e231]:
+                - generic [ref=e232]:
+                  - generic:
+                    - generic: Gates Of Olympus
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e233]:
+                - generic [ref=e234]:
+                  - generic:
+                    - generic: Ultra Fresh
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e235]:
+                - generic [ref=e236]:
+                  - generic:
+                    - generic: The Dog House Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+            - list [ref=e237]:
+              - listitem [ref=e238]:
+                - generic [ref=e239]:
+                  - generic:
+                    - generic: Sweet Bonanza
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e240]:
+                - generic [ref=e241]:
+                  - generic:
+                    - generic: Crown Coins
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e242]:
+                - generic [ref=e243]:
+                  - generic:
+                    - generic: Buffalo King Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e244]:
+                - generic [ref=e245]:
+                  - generic:
+                    - generic: Wolf Gold
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e246]:
+                - generic [ref=e247]:
+                  - generic:
+                    - generic: Lucky Streak 3
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e248]:
+                - generic [ref=e249]:
+                  - generic:
+                    - generic: Joker Stoker
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+            - list [ref=e250]:
+              - listitem [ref=e251]:
+                - generic [ref=e252]:
+                  - generic:
+                    - generic: Gates of Olympus 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e253]:
+                - generic [ref=e254]:
+                  - generic:
+                    - generic: Dork Unit
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Hacksaw Gaming
+              - listitem [ref=e255]:
+                - generic [ref=e256]:
+                  - generic:
+                    - generic: Book of Ra
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Novomatic
+              - listitem [ref=e257]:
+                - generic [ref=e258]:
+                  - generic:
+                    - generic: Shining Hot 100
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e259]:
+                - generic [ref=e260]:
+                  - generic:
+                    - generic: Pug Life
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Hacksaw Gaming
+              - listitem [ref=e261]:
+                - generic [ref=e262]:
+                  - generic:
+                    - generic: Wild Spin
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Platipus
+          - tabpanel [ref=e263]:
+            - list [ref=e264]:
+              - listitem [ref=e265]:
+                - generic [ref=e266]:
+                  - generic:
+                    - generic: Fruit Cocktail
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Igrosoft
+              - listitem [ref=e267]:
+                - generic [ref=e268]:
+                  - generic:
+                    - generic: Mummyland Treasures
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Belatra
+              - listitem [ref=e269]:
+                - generic [ref=e270]:
+                  - generic:
+                    - generic: JavelinX
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Turbogames
+              - listitem [ref=e271]:
+                - generic [ref=e272]:
+                  - generic:
+                    - generic: "Joker’s Coins: Hold and Win"
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Playson
+              - listitem [ref=e273]:
+                - generic [ref=e274]:
+                  - generic:
+                    - generic: Shining Hot 5
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e275]:
+                - generic [ref=e276]:
+                  - generic:
+                    - generic: Joker Expand
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Playson
+            - list [ref=e277]:
+              - listitem [ref=e278]:
+                - generic [ref=e279]:
+                  - generic:
+                    - generic: Sweet Bonanza 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e280]:
+                - generic [ref=e281]:
+                  - generic:
+                    - generic: Zeus vs Hades - Gods of War
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e282]:
+                - generic [ref=e283]:
+                  - generic:
+                    - generic: 7 & Hot Fruits
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Platipus
+              - listitem [ref=e284]:
+                - generic [ref=e285]:
+                  - generic:
+                    - generic: Crazy monkey
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Igrosoft
+              - listitem [ref=e286]:
+                - generic [ref=e287]:
+                  - generic:
+                    - generic: Piggy Bank Scratch
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Belatra
+              - listitem [ref=e288]:
+                - generic [ref=e289]:
+                  - generic:
+                    - generic: Lost Relics 2
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Netent
+            - list [ref=e290]:
+              - listitem [ref=e291]:
+                - generic [ref=e292]:
+                  - generic:
+                    - generic: Sugar Rush 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e293]:
+                - generic [ref=e294]:
+                  - generic:
+                    - generic: Beach Invaders
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Netent
+              - listitem [ref=e295]:
+                - generic [ref=e296]:
+                  - generic:
+                    - generic: Starlight Princess
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e297]:
+                - generic [ref=e298]:
+                  - generic:
+                    - generic: Madame Destiny Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e299]:
+                - generic [ref=e300]:
+                  - generic:
+                    - generic: Sweet Bonanza Dice
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e301]:
+                - generic [ref=e302]:
+                  - generic:
+                    - generic: Le Bandit
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Hacksaw Gaming
+          - tabpanel [ref=e303]:
+            - list [ref=e304]:
+              - listitem [ref=e305]:
+                - generic [ref=e306]:
+                  - generic:
+                    - generic: Gems Bonanza
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e307]:
+                - generic [ref=e308]:
+                  - generic:
+                    - generic: Wild Bounty Showdown
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: PGSoft
+              - listitem [ref=e309]:
+                - generic [ref=e310]:
+                  - generic:
+                    - generic: The Hand of Midas
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e311]:
+                - generic [ref=e312]:
+                  - generic:
+                    - generic: Starlight Princess 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e313]:
+                - generic [ref=e314]:
+                  - generic:
+                    - generic: Fishin’ Frenzy The Big Catch Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Blueprint
+              - listitem [ref=e315]:
+                - generic [ref=e316]:
+                  - generic:
+                    - generic: RIP City
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Hacksaw Gaming
+            - list [ref=e317]:
+              - listitem [ref=e318]:
+                - generic [ref=e319]:
+                  - generic:
+                    - generic: Power of Thor Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e320]:
+                - generic [ref=e321]:
+                  - generic:
+                    - generic: Juicy Fruits
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e322]:
+                - generic [ref=e323]:
+                  - generic:
+                    - generic: Fire Portals
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e324]:
+                - generic [ref=e325]:
+                  - generic:
+                    - generic: Fishin Frenzy Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Blueprint
+              - listitem [ref=e326]:
+                - generic [ref=e327]:
+                  - generic:
+                    - generic: Book of ra deluxe
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Novomatic
+              - listitem [ref=e328]:
+                - generic [ref=e329]:
+                  - generic:
+                    - generic: The Dog House Multihold
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+        - tablist "Select a slide to show":
+          - tab "Go to slide 1" [selected] [ref=e330] [cursor=pointer]
+          - tab "Go to slide 2" [ref=e331] [cursor=pointer]
+          - tab "Go to slide 3" [ref=e332] [cursor=pointer]
+      - region [ref=e334]:
+        - generic [ref=e335]:
+          - generic [ref=e339]: NEW
+          - generic [ref=e341]:
+            - button "Переглянути всі" [ref=e342] [cursor=pointer]:
+              - generic [ref=e343] [cursor=pointer]: Переглянути всі
+            - generic [ref=e344]:
+              - button "Go to last slide" [ref=e345] [cursor=pointer]
+              - button "Next slide" [ref=e346] [cursor=pointer]
+        - generic [ref=e347]:
+          - tabpanel "1 of 3" [ref=e348]:
+            - list [ref=e349]:
+              - listitem [ref=e350]:
+                - generic [ref=e351]:
+                  - generic:
+                    - generic: Gates Of Olympus
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e352]:
+                - generic [ref=e353]:
+                  - generic:
+                    - generic: Amazons Riches
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e354]:
+                - generic [ref=e355]:
+                  - generic:
+                    - generic: Book of Monsters
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e356]:
+                - generic [ref=e357]:
+                  - generic:
+                    - generic: Prestige Crown
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e358]:
+                - generic [ref=e359]:
+                  - generic:
+                    - generic: Sugar Rush
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e360]:
+                - generic [ref=e361]:
+                  - generic:
+                    - generic: Sticky Lips
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+            - list [ref=e362]:
+              - listitem [ref=e363]:
+                - generic [ref=e364]:
+                  - generic:
+                    - generic: Shining Hot 5
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e365]:
+                - generic [ref=e366]:
+                  - generic:
+                    - generic: The Dog House Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e367]:
+                - generic [ref=e368]:
+                  - generic:
+                    - generic: Burning Coins 20
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e369]:
+                - generic [ref=e370]:
+                  - generic:
+                    - generic: Treasure of Anubis
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: BGaming
+              - listitem [ref=e371]:
+                - generic [ref=e372]:
+                  - generic:
+                    - generic: Blitz Super Wheel
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e373]:
+                - generic [ref=e374]:
+                  - generic:
+                    - generic: Thunder Crown
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+            - list [ref=e375]:
+              - listitem [ref=e376]:
+                - generic [ref=e377]:
+                  - generic:
+                    - generic: Clover Flames
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e378]:
+                - generic [ref=e379]:
+                  - generic:
+                    - generic: Wild Wild Joker
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e380]:
+                - generic [ref=e381]:
+                  - generic:
+                    - generic: "Tiger Pot: Hold The Spin"
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Gamzix
+              - listitem [ref=e382]:
+                - generic [ref=e383]:
+                  - generic:
+                    - generic: Fortune Bells
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: BGaming
+              - listitem [ref=e384]:
+                - generic [ref=e385]:
+                  - generic:
+                    - generic: Silicon Spinners
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: AvatarUX
+              - listitem [ref=e386]:
+                - generic [ref=e387]:
+                  - generic:
+                    - generic: Volcano Goddess
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+          - tabpanel [ref=e388]:
+            - list [ref=e389]:
+              - listitem [ref=e390]:
+                - generic [ref=e391]:
+                  - generic:
+                    - generic: Triple Pot Gold
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e392]:
+                - generic [ref=e393]:
+                  - generic:
+                    - generic: Resurrecting Riches
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e394]:
+                - generic [ref=e395]:
+                  - generic:
+                    - generic: Jelly Candy
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e396]:
+                - generic [ref=e397]:
+                  - generic:
+                    - generic: SUGAR MIX
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: BGaming
+              - listitem [ref=e398]:
+                - generic [ref=e399]:
+                  - generic:
+                    - generic: Vegas Fortune
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: AvatarUX
+              - listitem [ref=e400]:
+                - generic [ref=e401]:
+                  - generic:
+                    - generic: Cash Surge
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+            - list [ref=e402]:
+              - listitem [ref=e403]:
+                - generic [ref=e404]:
+                  - generic:
+                    - generic: Lucky Dog
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e405]:
+                - generic [ref=e406]:
+                  - generic:
+                    - generic: Fortune Capybara
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Endorphina
+              - listitem [ref=e407]:
+                - generic [ref=e408]:
+                  - generic:
+                    - generic: 5 Lions Reborn
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e409]:
+                - generic [ref=e410]:
+                  - generic:
+                    - generic: Arrow Slot
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: BGaming
+              - listitem [ref=e411]:
+                - generic [ref=e412]:
+                  - generic:
+                    - generic: JANISSARIES
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Endorphina
+              - listitem [ref=e413]:
+                - generic [ref=e414]:
+                  - generic:
+                    - generic: Doomsday Rampage
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: PGSoft
+            - list [ref=e415]:
+              - listitem [ref=e416]:
+                - generic [ref=e417]:
+                  - generic:
+                    - generic: Ride The Lightning
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e418]:
+                - generic [ref=e419]:
+                  - generic:
+                    - generic: Joker’s Jewels Cash
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e420]:
+                - generic [ref=e421]:
+                  - generic:
+                    - generic: Bandit Megaways™
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e422]:
+                - generic [ref=e423]:
+                  - generic:
+                    - generic: Canyon Riches
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: AvatarUX
+              - listitem [ref=e424]:
+                - generic [ref=e425]:
+                  - generic:
+                    - generic: Xing Fu Panda
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Belatra
+              - listitem [ref=e426]:
+                - generic [ref=e427]:
+                  - generic:
+                    - generic: The Dog House – Royal Hunt
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+          - tabpanel [ref=e428]:
+            - list [ref=e429]:
+              - listitem [ref=e430]:
+                - generic [ref=e431]:
+                  - generic:
+                    - generic: Lucky Mouse
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e432]:
+                - generic [ref=e433]:
+                  - generic:
+                    - generic: Incan Wonders
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: PGSoft
+              - listitem [ref=e434]:
+                - generic [ref=e435]:
+                  - generic:
+                    - generic: Lucky’s Wild Pub
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e436]:
+                - generic [ref=e437]:
+                  - generic:
+                    - generic: "Patrick's Luck: Hold The Spin"
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Gamzix
+              - listitem [ref=e438]:
+                - generic [ref=e439]:
+                  - generic:
+                    - generic: Alice WonderLuck
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: BGaming
+              - listitem [ref=e440]:
+                - generic [ref=e441]:
+                  - generic:
+                    - generic: Raging Waterfall Megaways™
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+            - list [ref=e442]:
+              - listitem [ref=e443]:
+                - generic [ref=e444]:
+                  - generic:
+                    - generic: Mr. Treasure’s Fortune
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: PGSoft
+              - listitem [ref=e445]:
+                - generic [ref=e446]:
+                  - generic:
+                    - generic: 5 Lions Megaways™ 2
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e447]:
+                - generic [ref=e448]:
+                  - generic:
+                    - generic: Wild Card Gang
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: BGaming
+              - listitem [ref=e449]:
+                - generic [ref=e450]:
+                  - generic:
+                    - generic: Blast the Bass
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Belatra
+              - listitem [ref=e451]:
+                - generic [ref=e452]:
+                  - generic:
+                    - generic: Big Catch Craze
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: AvatarUX
+              - listitem [ref=e453]:
+                - generic [ref=e454]:
+                  - generic:
+                    - generic: John Hunter and Galileo’s Secrets
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+        - tablist "Select a slide to show":
+          - tab "Go to slide 1" [selected] [ref=e455] [cursor=pointer]
+          - tab "Go to slide 2" [ref=e456] [cursor=pointer]
+          - tab "Go to slide 3" [ref=e457] [cursor=pointer]
+      - region [ref=e459]:
+        - generic [ref=e460]:
+          - generic [ref=e464]: SLOTS
+          - generic [ref=e466]:
+            - button "Переглянути всі" [ref=e467] [cursor=pointer]:
+              - generic [ref=e468] [cursor=pointer]: Переглянути всі
+            - generic [ref=e469]:
+              - button "Go to last slide" [ref=e470] [cursor=pointer]
+              - button "Next slide" [ref=e471] [cursor=pointer]
+        - generic [ref=e472]:
+          - tabpanel "1 of 3" [ref=e473]:
+            - list [ref=e474]:
+              - listitem [ref=e475]:
+                - generic [ref=e476]:
+                  - generic:
+                    - generic: Hell Hot 40
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e477]:
+                - generic [ref=e478]:
+                  - generic:
+                    - generic: Wild Love
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e479]:
+                - generic [ref=e480]:
+                  - generic:
+                    - generic: Bananas Go Bahamas
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Novomatic
+              - listitem [ref=e481]:
+                - generic [ref=e482]:
+                  - generic:
+                    - generic: Shining Hot 100
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e483]:
+                - generic [ref=e484]:
+                  - generic:
+                    - generic: Book of Oil
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e485]:
+                - generic [ref=e486]:
+                  - generic:
+                    - generic: Dork Unit
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Hacksaw Gaming
+            - list [ref=e487]:
+              - listitem [ref=e488]:
+                - generic [ref=e489]:
+                  - generic:
+                    - generic: 2022 Hit Slot
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e490]:
+                - generic [ref=e491]:
+                  - generic:
+                    - generic: Gates Of Olympus
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e492]:
+                - generic [ref=e493]:
+                  - generic:
+                    - generic: Lucky Streak 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e494]:
+                - generic [ref=e495]:
+                  - generic:
+                    - generic: The Dog House Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e496]:
+                - generic [ref=e497]:
+                  - generic:
+                    - generic: Shining Hot 5
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e498]:
+                - generic [ref=e499]:
+                  - generic:
+                    - generic: Crazy monkey
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Igrosoft
+            - list [ref=e500]:
+              - listitem [ref=e501]:
+                - generic [ref=e502]:
+                  - generic:
+                    - generic: Book of Santa
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Endorphina
+              - listitem [ref=e503]:
+                - generic [ref=e504]:
+                  - generic:
+                    - generic: Joker Expand
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Playson
+              - listitem [ref=e505]:
+                - generic [ref=e506]:
+                  - generic:
+                    - generic: Zeus vs Hades - Gods of War
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e507]:
+                - generic [ref=e508]:
+                  - generic:
+                    - generic: 7 & Hot Fruits
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Platipus
+              - listitem [ref=e509]:
+                - generic [ref=e510]:
+                  - generic:
+                    - generic: Piggy Bank Scratch
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Belatra
+              - listitem [ref=e511]:
+                - generic [ref=e512]:
+                  - generic:
+                    - generic: Book of Ra
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Novomatic
+          - tabpanel [ref=e513]:
+            - list [ref=e514]:
+              - listitem [ref=e515]:
+                - generic [ref=e516]:
+                  - generic:
+                    - generic: Wild Bounty Showdown
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: PGSoft
+              - listitem [ref=e517]:
+                - generic [ref=e518]:
+                  - generic:
+                    - generic: "Joker’s Coins: Hold and Win"
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Playson
+              - listitem [ref=e519]:
+                - generic [ref=e520]:
+                  - generic:
+                    - generic: Sugar Rush
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e521]:
+                - generic [ref=e522]:
+                  - generic:
+                    - generic: Lost Relics 2
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Netent
+              - listitem [ref=e523]:
+                - generic [ref=e524]:
+                  - generic:
+                    - generic: Gates of Olympus 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e525]:
+                - generic [ref=e526]:
+                  - generic:
+                    - generic: Sugar Rush 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+            - list [ref=e527]:
+              - listitem [ref=e528]:
+                - generic [ref=e529]:
+                  - generic:
+                    - generic: Beach Invaders
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Netent
+              - listitem [ref=e530]:
+                - generic [ref=e531]:
+                  - generic:
+                    - generic: Starlight Princess
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e532]:
+                - generic [ref=e533]:
+                  - generic:
+                    - generic: Madame Destiny Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e534]:
+                - generic [ref=e535]:
+                  - generic:
+                    - generic: Sweet Bonanza
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e536]:
+                - generic [ref=e537]:
+                  - generic:
+                    - generic: Gems Bonanza
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e538]:
+                - generic [ref=e539]:
+                  - generic:
+                    - generic: The Hand of Midas
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+            - list [ref=e540]:
+              - listitem [ref=e541]:
+                - generic [ref=e542]:
+                  - generic:
+                    - generic: Starlight Princess 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e543]:
+                - generic [ref=e544]:
+                  - generic:
+                    - generic: Fishin’ Frenzy The Big Catch Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Blueprint
+              - listitem [ref=e545]:
+                - generic [ref=e546]:
+                  - generic:
+                    - generic: Power of Thor Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e547]:
+                - generic [ref=e548]:
+                  - generic:
+                    - generic: Juicy Fruits
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e549]:
+                - generic [ref=e550]:
+                  - generic:
+                    - generic: Fire Portals
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e551]:
+                - generic [ref=e552]:
+                  - generic:
+                    - generic: Fishin Frenzy Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Blueprint
+          - tabpanel [ref=e553]:
+            - list [ref=e554]:
+              - listitem [ref=e555]:
+                - generic [ref=e556]:
+                  - generic:
+                    - generic: Book of ra deluxe
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Novomatic
+              - listitem [ref=e557]:
+                - generic [ref=e558]:
+                  - generic:
+                    - generic: The Dog House Multihold
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e559]:
+                - generic [ref=e560]:
+                  - generic:
+                    - generic: Wild West Gold Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e561]:
+                - generic [ref=e562]:
+                  - generic:
+                    - generic: Treasures of Aztec
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: PGSoft
+              - listitem [ref=e563]:
+                - generic [ref=e564]:
+                  - generic:
+                    - generic: Forge of Olympus
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e565]:
+                - generic [ref=e566]:
+                  - generic:
+                    - generic: Muertos Multiplier Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+            - list [ref=e567]:
+              - listitem [ref=e568]:
+                - generic [ref=e569]:
+                  - generic:
+                    - generic: Fruit Party
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e570]:
+                - generic [ref=e571]:
+                  - generic:
+                    - generic: Sugar Rush Xmas
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e572]:
+                - generic [ref=e573]:
+                  - generic:
+                    - generic: Wild West Duels
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e574]:
+                - generic [ref=e575]:
+                  - generic:
+                    - generic: The Dog House
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e576]:
+                - generic [ref=e577]:
+                  - generic:
+                    - generic: Power of Merlin Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e578]:
+                - generic [ref=e579]:
+                  - generic:
+                    - generic: "Book del Sol: Multiplier"
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Playson
+        - tablist "Select a slide to show":
+          - tab "Go to slide 1" [selected] [ref=e580] [cursor=pointer]
+          - tab "Go to slide 2" [ref=e581] [cursor=pointer]
+          - tab "Go to slide 3" [ref=e582] [cursor=pointer]
+      - region [ref=e584]:
+        - generic [ref=e585]:
+          - generic [ref=e589]: ARCADE
+          - generic [ref=e591]:
+            - button "Переглянути всі" [ref=e592] [cursor=pointer]:
+              - generic [ref=e593] [cursor=pointer]: Переглянути всі
+            - generic [ref=e594]:
+              - button "Previous slide" [disabled] [ref=e595]
+              - button "Next slide" [disabled] [ref=e596]
+        - tabpanel "1 of 1" [ref=e598]:
+          - list [ref=e599]:
+            - listitem [ref=e600]:
+              - generic [ref=e601]:
+                - generic:
+                  - generic: Fishing Club
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: BGaming
+            - listitem [ref=e602]:
+              - generic [ref=e603]:
+                - generic:
+                  - generic: Heads and Tails
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: BGaming
+            - listitem [ref=e604]:
+              - generic [ref=e605]:
+                - generic:
+                  - generic: Heads and Tails XY
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: BGaming
+            - listitem [ref=e606]:
+              - generic [ref=e607]:
+                - generic:
+                  - generic: Blast Man
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e608]:
+              - generic [ref=e609]:
+                - generic:
+                  - generic: Darts Champion
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e610]:
+              - generic [ref=e611]:
+                - generic:
+                  - generic: Mania Lotto
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+          - list [ref=e612]:
+            - listitem [ref=e613]:
+              - generic [ref=e614]:
+                - generic:
+                  - generic: Plinko S
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e615]:
+              - generic [ref=e616]:
+                - generic:
+                  - generic: Rocket Race
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e617]:
+              - generic [ref=e618]:
+                - generic:
+                  - generic: Slap It
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e619]:
+              - generic [ref=e620]:
+                - generic:
+                  - generic: Tap Heroes
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e621]:
+              - generic [ref=e622]:
+                - generic:
+                  - generic: Thunder Land
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e623]:
+              - generic [ref=e624]:
+                - generic:
+                  - generic: Won Won Catching
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+          - list [ref=e625]:
+            - listitem [ref=e626]:
+              - generic [ref=e627]:
+                - generic:
+                  - generic: Deluxe Dice
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e628]:
+              - generic [ref=e629]:
+                - generic:
+                  - generic: Fortune Code
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e630]:
+              - generic [ref=e631]:
+                - generic:
+                  - generic: Deluxe Wallet
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e632]:
+              - generic [ref=e633]:
+                - generic:
+                  - generic: Awesome Treasure
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e634]:
+              - generic [ref=e635]:
+                - generic:
+                  - generic: Awesome Lucky Wheel
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+            - listitem [ref=e636]:
+              - generic [ref=e637]:
+                - generic:
+                  - generic: Golden Wheel
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                    - button "Демо"
+                  - generic: KA Gaming
+      - region [ref=e639]:
+        - generic [ref=e640]:
+          - generic [ref=e644]: BUY BONUS
+          - generic [ref=e646]:
+            - button "Переглянути всі" [ref=e647] [cursor=pointer]:
+              - generic [ref=e648] [cursor=pointer]: Переглянути всі
+            - generic [ref=e649]:
+              - button "Go to last slide" [ref=e650] [cursor=pointer]
+              - button "Next slide" [ref=e651] [cursor=pointer]
+        - generic [ref=e652]:
+          - tabpanel "1 of 3" [ref=e653]:
+            - list [ref=e654]:
+              - listitem [ref=e655]:
+                - generic [ref=e656]:
+                  - generic:
+                    - generic: Gates Of Olympus
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e657]:
+                - generic [ref=e658]:
+                  - generic:
+                    - generic: Sugar Rush
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e659]:
+                - generic [ref=e660]:
+                  - generic:
+                    - generic: Wild Bounty Showdown
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: PGSoft
+              - listitem [ref=e661]:
+                - generic [ref=e662]:
+                  - generic:
+                    - generic: Starlight Princess
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e663]:
+                - generic [ref=e664]:
+                  - generic:
+                    - generic: Gates of Olympus 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e665]:
+                - generic [ref=e666]:
+                  - generic:
+                    - generic: Sugar Rush 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+            - list [ref=e667]:
+              - listitem [ref=e668]:
+                - generic [ref=e669]:
+                  - generic:
+                    - generic: Madame Destiny Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e670]:
+                - generic [ref=e671]:
+                  - generic:
+                    - generic: Sweet Bonanza
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e672]:
+                - generic [ref=e673]:
+                  - generic:
+                    - generic: Zeus vs Hades - Gods of War
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e674]:
+                - generic [ref=e675]:
+                  - generic:
+                    - generic: Sweet Bonanza 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e676]:
+                - generic [ref=e677]:
+                  - generic:
+                    - generic: Gems Bonanza
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e678]:
+                - generic [ref=e679]:
+                  - generic:
+                    - generic: The Hand of Midas
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+            - list [ref=e680]:
+              - listitem [ref=e681]:
+                - generic [ref=e682]:
+                  - generic:
+                    - generic: Power of Thor Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e683]:
+                - generic [ref=e684]:
+                  - generic:
+                    - generic: Juicy Fruits
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+              - listitem [ref=e685]:
+                - generic [ref=e686]:
+                  - generic:
+                    - generic: RIP City
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Hacksaw Gaming
+              - listitem [ref=e687]:
+                - generic [ref=e688]:
+                  - generic:
+                    - generic: Le Bandit
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Hacksaw Gaming
+              - listitem [ref=e689]:
+                - generic [ref=e690]:
+                  - generic:
+                    - generic: Fishin Frenzy Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Blueprint
+              - listitem [ref=e691]:
+                - generic [ref=e692]:
+                  - generic:
+                    - generic: Starlight Princess 1000
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: Pragmatic Play
+          - tabpanel [ref=e693]:
+            - list [ref=e694]:
+              - listitem [ref=e695]:
+                - generic [ref=e696]:
+                  - generic:
+                    - generic: Fire Portals
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e697]:
+                - generic [ref=e698]:
+                  - generic:
+                    - generic: The Dog House Multihold
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e699]:
+                - generic [ref=e700]:
+                  - generic:
+                    - generic: Wild West Gold Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e701]:
+                - generic [ref=e702]:
+                  - generic:
+                    - generic: Muertos Multiplier Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e703]:
+                - generic [ref=e704]:
+                  - generic:
+                    - generic: Forge of Olympus
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e705]:
+                - generic [ref=e706]:
+                  - generic:
+                    - generic: Fruit Party
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+            - list [ref=e707]:
+              - listitem [ref=e708]:
+                - generic [ref=e709]:
+                  - generic:
+                    - generic: "Book del Sol: Multiplier"
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Playson
+              - listitem [ref=e710]:
+                - generic [ref=e711]:
+                  - generic:
+                    - generic: Wild West Duels
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e712]:
+                - generic [ref=e713]:
+                  - generic:
+                    - generic: Santa's Great Gifts
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e714]:
+                - generic [ref=e715]:
+                  - generic:
+                    - generic: Power of Merlin Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e716]:
+                - generic [ref=e717]:
+                  - generic:
+                    - generic: Sugar Rush Xmas
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e718]:
+                - generic [ref=e719]:
+                  - generic:
+                    - generic: Fishin Frenzy Even Bigger Catch
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Blueprint
+            - list [ref=e720]:
+              - listitem [ref=e721]:
+                - generic [ref=e722]:
+                  - generic:
+                    - generic: Mammoth Gold Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e723]:
+                - generic [ref=e724]:
+                  - generic:
+                    - generic: Cleocatra
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e725]:
+                - generic [ref=e726]:
+                  - generic:
+                    - generic: Sweet Bonanza Xmas
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e727]:
+                - generic [ref=e728]:
+                  - generic:
+                    - generic: Chaos Crew
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Hacksaw Gaming
+              - listitem [ref=e729]:
+                - generic [ref=e730]:
+                  - generic:
+                    - generic: Fishin’ Frenzy The Big Splash
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Blueprint
+              - listitem [ref=e731]:
+                - generic [ref=e732]:
+                  - generic:
+                    - generic: Stack 'Em
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Hacksaw Gaming
+          - tabpanel [ref=e733]:
+            - list [ref=e734]:
+              - listitem [ref=e735]:
+                - generic [ref=e736]:
+                  - generic:
+                    - generic: Mummyland Treasures
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Belatra
+              - listitem [ref=e737]:
+                - generic [ref=e738]:
+                  - generic:
+                    - generic: 5 Lions Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e739]:
+                - generic [ref=e740]:
+                  - generic:
+                    - generic: Extra Juicy Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e741]:
+                - generic [ref=e742]:
+                  - generic:
+                    - generic: The Dog House – Dog or Alive
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e743]:
+                - generic [ref=e744]:
+                  - generic:
+                    - generic: Rotten
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Hacksaw Gaming
+              - listitem [ref=e745]:
+                - generic [ref=e746]:
+                  - generic:
+                    - generic: Sugar Supreme Powernudge
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+            - list [ref=e747]:
+              - listitem [ref=e748]:
+                - generic [ref=e749]:
+                  - generic:
+                    - generic: Buffalo King Megaways
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e750]:
+                - generic [ref=e751]:
+                  - generic:
+                    - generic: Candy Blitz
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e752]:
+                - generic [ref=e753]:
+                  - generic:
+                    - generic: Monster Superlanche
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e754]:
+                - generic [ref=e755]:
+                  - generic:
+                    - generic: Barn Festival
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e756]:
+                - generic [ref=e757]:
+                  - generic:
+                    - generic: Sky Bounty
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+              - listitem [ref=e758]:
+                - generic [ref=e759]:
+                  - generic:
+                    - generic: Chicken Drop
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                      - button: Демо
+                    - generic: Pragmatic Play
+        - tablist "Select a slide to show":
+          - tab "Go to slide 1" [selected] [ref=e760] [cursor=pointer]
+          - tab "Go to slide 2" [ref=e761] [cursor=pointer]
+          - tab "Go to slide 3" [ref=e762] [cursor=pointer]
+      - region [ref=e764]:
+        - generic [ref=e765]:
+          - generic [ref=e769]: LIVE CASINO
+          - generic [ref=e771]:
+            - button "Переглянути всі" [ref=e772] [cursor=pointer]:
+              - generic [ref=e773] [cursor=pointer]: Переглянути всі
+            - generic [ref=e774]:
+              - button "Go to last slide" [ref=e775] [cursor=pointer]
+              - button "Next slide" [ref=e776] [cursor=pointer]
+        - generic [ref=e777]:
+          - tabpanel "1 of 3" [ref=e778]:
+            - list [ref=e779]:
+              - listitem [ref=e780]:
+                - generic [ref=e781]:
+                  - generic:
+                    - generic: American Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: BGaming
+              - listitem [ref=e782]:
+                - generic [ref=e783]:
+                  - generic:
+                    - generic: European Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: BGaming
+              - listitem [ref=e784]:
+                - generic [ref=e785]:
+                  - generic:
+                    - generic: French Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                      - button "Демо"
+                    - generic: BGaming
+              - listitem [ref=e786]:
+                - generic [ref=e787]:
+                  - generic:
+                    - generic: Andar Bahar
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e788]:
+                - generic [ref=e789]:
+                  - generic:
+                    - generic: Auto Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e790]:
+                - generic [ref=e791]:
+                  - generic:
+                    - generic: Auto Roulette 1
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+            - list [ref=e792]:
+              - listitem [ref=e793]:
+                - generic [ref=e794]:
+                  - generic:
+                    - generic: Baccarat
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e795]:
+                - generic [ref=e796]:
+                  - generic:
+                    - generic: Baccarat A
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e797]:
+                - generic [ref=e798]:
+                  - generic:
+                    - generic: Baccarat B
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e799]:
+                - generic [ref=e800]:
+                  - generic:
+                    - generic: Baccarat D
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e801]:
+                - generic [ref=e802]:
+                  - generic:
+                    - generic: Baccarat E
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e803]:
+                - generic [ref=e804]:
+                  - generic:
+                    - generic: Baccarat no Commission
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+            - list [ref=e805]:
+              - listitem [ref=e806]:
+                - generic [ref=e807]:
+                  - generic:
+                    - generic: Baccarat Super 6
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e808]:
+                - generic [ref=e809]:
+                  - generic:
+                    - generic: Bet on Teen Patti
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e810]:
+                - generic [ref=e811]:
+                  - generic:
+                    - generic: Blackjack
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e812]:
+                - generic [ref=e813]:
+                  - generic:
+                    - generic: Blackjack da Sorte
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e814]:
+                - generic [ref=e815]:
+                  - generic:
+                    - generic: Blackjack Salon Privé
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+              - listitem [ref=e816]:
+                - generic [ref=e817]:
+                  - generic:
+                    - generic: Casino Hold'em
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button "Реальний"
+                    - generic: Ezugi
+          - tabpanel [ref=e818]:
+            - list [ref=e819]:
+              - listitem [ref=e820]:
+                - generic [ref=e821]:
+                  - generic:
+                    - generic: Casino Marina Andar Bahar
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e822]:
+                - generic [ref=e823]:
+                  - generic:
+                    - generic: Casino Marina Baccarat A
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e824]:
+                - generic [ref=e825]:
+                  - generic:
+                    - generic: Casino Marina Baccarat B
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e826]:
+                - generic [ref=e827]:
+                  - generic:
+                    - generic: Casino Marina Baccarat C
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e828]:
+                - generic [ref=e829]:
+                  - generic:
+                    - generic: Casino Marina Baccarat D
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e830]:
+                - generic [ref=e831]:
+                  - generic:
+                    - generic: Casino Marina Roulette 1
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+            - list [ref=e832]:
+              - listitem [ref=e833]:
+                - generic [ref=e834]:
+                  - generic:
+                    - generic: Casino Marina Roulette 2
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e835]:
+                - generic [ref=e836]:
+                  - generic:
+                    - generic: Cricket Auto Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e837]:
+                - generic [ref=e838]:
+                  - generic:
+                    - generic: Cricket War
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e839]:
+                - generic [ref=e840]:
+                  - generic:
+                    - generic: Diamond Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e841]:
+                - generic [ref=e842]:
+                  - generic:
+                    - generic: Dragon Tiger
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e843]:
+                - generic [ref=e844]:
+                  - generic:
+                    - generic: Dragon Tiger da Sorte
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+            - list [ref=e845]:
+              - listitem [ref=e846]:
+                - generic [ref=e847]:
+                  - generic:
+                    - generic: EZ Dealer Roleta Brasileira
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e848]:
+                - generic [ref=e849]:
+                  - generic:
+                    - generic: EZ Dealer Roulette English
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e850]:
+                - generic [ref=e851]:
+                  - generic:
+                    - generic: EZ Dealer Roulette Japanese
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e852]:
+                - generic [ref=e853]:
+                  - generic:
+                    - generic: EZ Dealer Roulette Mandarin
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e854]:
+                - generic [ref=e855]:
+                  - generic:
+                    - generic: EZ Dealer Roulette Thai
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e856]:
+                - generic [ref=e857]:
+                  - generic:
+                    - generic: Gold Blackjack 1
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+          - tabpanel [ref=e858]:
+            - list [ref=e859]:
+              - listitem [ref=e860]:
+                - generic [ref=e861]:
+                  - generic:
+                    - generic: Gold Blackjack 3
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e862]:
+                - generic [ref=e863]:
+                  - generic:
+                    - generic: Gold Blackjack 5
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e864]:
+                - generic [ref=e865]:
+                  - generic:
+                    - generic: Italian Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e866]:
+                - generic [ref=e867]:
+                  - generic:
+                    - generic: Knockout Baccarat
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e868]:
+                - generic [ref=e869]:
+                  - generic:
+                    - generic: Lucky 7
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e870]:
+                - generic [ref=e871]:
+                  - generic:
+                    - generic: Namaste Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+            - list [ref=e872]:
+              - listitem [ref=e873]:
+                - generic [ref=e874]:
+                  - generic:
+                    - generic: No Commission Baccarat A
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e875]:
+                - generic [ref=e876]:
+                  - generic:
+                    - generic: No Commission Baccarat B
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e877]:
+                - generic [ref=e878]:
+                  - generic:
+                    - generic: No Commission Baccarat D
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e879]:
+                - generic [ref=e880]:
+                  - generic:
+                    - generic: No Commission Baccarat E
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e881]:
+                - generic [ref=e882]:
+                  - generic:
+                    - generic: One Day Teen Patti
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+              - listitem [ref=e883]:
+                - generic [ref=e884]:
+                  - generic:
+                    - generic: Oracle 360 Roulette
+                    - button:
+                      - generic:
+                        - img
+                    - generic:
+                      - button: Реальний
+                    - generic: Ezugi
+        - tablist "Select a slide to show":
+          - tab "Go to slide 1" [selected] [ref=e885] [cursor=pointer]
+          - tab "Go to slide 2" [ref=e886] [cursor=pointer]
+          - tab "Go to slide 3" [ref=e887] [cursor=pointer]
+      - region [ref=e889]:
+        - generic [ref=e890]:
+          - generic [ref=e894]: SHOW GAMES
+          - generic [ref=e896]:
+            - button "Переглянути всі" [ref=e897] [cursor=pointer]:
+              - generic [ref=e898] [cursor=pointer]: Переглянути всі
+            - generic [ref=e899]:
+              - button "Previous slide" [disabled] [ref=e900]
+              - button "Next slide" [disabled] [ref=e901]
+        - tabpanel "1 of 1" [ref=e903]:
+          - list [ref=e904]:
+            - listitem [ref=e905]:
+              - generic [ref=e906]:
+                - generic:
+                  - generic: Mega Baccarat
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+            - listitem [ref=e907]:
+              - generic [ref=e908]:
+                - generic:
+                  - generic: Mega Roulette
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+            - listitem [ref=e909]:
+              - generic [ref=e910]:
+                - generic:
+                  - generic: Mega Sic Bo
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+            - listitem [ref=e911]:
+              - generic [ref=e912]:
+                - generic:
+                  - generic: Mega Wheel
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+            - listitem [ref=e913]:
+              - generic [ref=e914]:
+                - generic:
+                  - generic: Snakes & Ladders Live
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+            - listitem [ref=e915]:
+              - generic [ref=e916]:
+                - generic:
+                  - generic: Vegas Ball Bonanza
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+          - list [ref=e917]:
+            - listitem [ref=e918]:
+              - generic [ref=e919]:
+                - generic:
+                  - generic: Treasure Island
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+            - listitem [ref=e920]:
+              - generic [ref=e921]:
+                - generic:
+                  - generic: Dice City
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+            - listitem [ref=e922]:
+              - generic [ref=e923]:
+                - generic:
+                  - generic: Money Time
+                  - button:
+                    - generic:
+                      - img
+                  - generic:
+                    - button "Реальний"
+                  - generic: Pragmatic Play Live
+      - generic [ref=e925]:
+        - generic [ref=e927]:
+          - text: Потрiбнi грошi?
+          - text: Тисни сюди!
+        - link "Отримати грошi" [ref=e929] [cursor=pointer]:
+          - /url: https://bitcapital.top/?utm_source=lucky&utm_medium=button_lc&utm_campaign=potribny_groshi
+      - region [ref=e932]:
+        - generic [ref=e933]:
+          - generic [ref=e936]: ПОСТАЧАЛЬНИКИ
+          - generic [ref=e939]:
+            - button "Previous slide" [disabled] [ref=e940]
+            - button "Next slide" [ref=e941] [cursor=pointer]
+        - generic [ref=e942]:
+          - group "1 of 37" [ref=e943] [cursor=pointer]
+          - group "2 of 37" [ref=e946] [cursor=pointer]
+          - group "3 of 37" [ref=e949] [cursor=pointer]
+          - group [ref=e952] [cursor=pointer]
+          - group [ref=e955] [cursor=pointer]
+          - group [ref=e958] [cursor=pointer]
+          - group [ref=e961] [cursor=pointer]
+          - group [ref=e964] [cursor=pointer]
+          - group [ref=e967] [cursor=pointer]
+          - group [ref=e970] [cursor=pointer]
+          - group [ref=e973] [cursor=pointer]
+          - group [ref=e976] [cursor=pointer]
+          - group [ref=e979] [cursor=pointer]
+          - group [ref=e982] [cursor=pointer]
+          - group [ref=e985] [cursor=pointer]
+          - group [ref=e988] [cursor=pointer]
+          - group [ref=e991] [cursor=pointer]
+          - group [ref=e994] [cursor=pointer]
+          - group [ref=e997] [cursor=pointer]
+          - group [ref=e1000] [cursor=pointer]
+          - group [ref=e1003] [cursor=pointer]
+          - group [ref=e1006] [cursor=pointer]
+          - group [ref=e1009] [cursor=pointer]
+          - group [ref=e1012] [cursor=pointer]
+          - group [ref=e1015] [cursor=pointer]
+          - group [ref=e1018] [cursor=pointer]
+          - group [ref=e1021] [cursor=pointer]
+          - group [ref=e1024] [cursor=pointer]
+          - group [ref=e1027] [cursor=pointer]
+          - group [ref=e1030] [cursor=pointer]
+          - group [ref=e1033] [cursor=pointer]
+          - group [ref=e1036] [cursor=pointer]
+          - group [ref=e1039] [cursor=pointer]
+          - group [ref=e1042] [cursor=pointer]
+          - group [ref=e1045] [cursor=pointer]
+          - group [ref=e1048] [cursor=pointer]
+          - group [ref=e1051] [cursor=pointer]
+  - contentinfo [ref=e1054]:
+    - generic [ref=e1055]:
+      - generic [ref=e1056]:
+        - generic [ref=e1058]:
+          - list [ref=e1059]:
+            - listitem [ref=e1060]:
+              - link "Всі ігри" [ref=e1061] [cursor=pointer]:
+                - /url: https://luckycoin777.live/category/all
+            - listitem [ref=e1062]:
+              - link "Popular" [ref=e1063] [cursor=pointer]:
+                - /url: https://luckycoin777.live/category/popular
+            - listitem [ref=e1064]:
+              - link "New" [ref=e1065] [cursor=pointer]:
+                - /url: https://luckycoin777.live/category/new
+            - listitem [ref=e1066]:
+              - link "Slots" [ref=e1067] [cursor=pointer]:
+                - /url: https://luckycoin777.live/category/slots
+            - listitem [ref=e1068]:
+              - link "Buy Bonus" [ref=e1069] [cursor=pointer]:
+                - /url: https://luckycoin777.live/category/buy-bonus
+            - listitem [ref=e1070]:
+              - link "Live Casino" [ref=e1071] [cursor=pointer]:
+                - /url: https://luckycoin777.live/category/live-casino
+            - listitem [ref=e1072]:
+              - link "Show Games" [ref=e1073] [cursor=pointer]:
+                - /url: https://luckycoin777.live/category/show-games
+            - listitem [ref=e1074]:
+              - link "Вибране" [ref=e1075] [cursor=pointer]:
+                - /url: https://luckycoin777.live/favorite
+            - listitem [ref=e1076]:
+              - link "Турніри" [ref=e1077] [cursor=pointer]:
+                - /url: https://luckycoin777.live/tournaments
+          - list [ref=e1078]:
+            - listitem [ref=e1079]:
+              - link "Гаманець" [ref=e1080] [cursor=pointer]:
+                - /url: ""
+            - listitem [ref=e1081]:
+              - link "Інформація про користувача" [ref=e1082] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1083]:
+              - link "Промо-код" [ref=e1084] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1085]:
+              - link "Бонус" [ref=e1086] [cursor=pointer]:
+                - /url: https://luckycoin777.live/bonuses
+          - list [ref=e1087]:
+            - listitem [ref=e1088]:
+              - link "Умови та положення" [ref=e1089] [cursor=pointer]:
+                - /url: https://luckycoin777.live/terms?tab=terms-n-conditions
+            - listitem [ref=e1090]:
+              - link "Умови бонусів" [ref=e1091] [cursor=pointer]:
+                - /url: https://luckycoin777.live/terms?tab=bonus-terms
+            - listitem [ref=e1092]:
+              - link "Політика відповідальної гри" [ref=e1093] [cursor=pointer]:
+                - /url: https://luckycoin777.live/terms?tab=responsible-game
+            - listitem [ref=e1094]:
+              - link "Політика конфіденційності" [ref=e1095] [cursor=pointer]:
+                - /url: https://luckycoin777.live/terms?tab=privacy-policy
+        - generic [ref=e1097]: Азартні ігри призначені для розваги. Пам'ятайте, що ви ризикуєте грошима, коли робите ставки. Не витрачайте більше, ніж можете дозволити собі втратити. The Luckycoin Casino operates under a license from the Government of Curacao.
+      - generic [ref=e1100]:
+        - generic [ref=e1102]:
+          - button "Підтримка онлайн" [ref=e1103] [cursor=pointer]:
+            - img [ref=e1105] [cursor=pointer]
+            - generic [ref=e1107] [cursor=pointer]: Підтримка онлайн
+          - link [ref=e1108] [cursor=pointer]:
+            - /url: https://m.sitehelp.me/telegram?siteId=7boeonz2gwrzmu4eje7p97hvp7icae5f&clientId=tdkqC5ThTpaCLq0lMx5Ct9BSkNW7eLwH&url=https%3A%2F%2Ft.me%2Flucky_coin_support_bot
+        - generic [ref=e1110]: 18+
+        - generic [ref=e1111]:
+          - generic [ref=e1112]:
+            - generic [ref=e1113]: © Luckycoin
+            - generic [ref=e1114]: 2025. Всі права захищені..
+          - link [ref=e1115] [cursor=pointer]:
+            - /url: ""
+  - text: Belarus -
+  - img [ref=e1117]
+  - img [ref=e1120]
+```

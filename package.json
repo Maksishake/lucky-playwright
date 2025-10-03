@@ -1,0 +1,36 @@
+{
+  "name": "lucky-manual-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "test:smoke": "playwright test --project=smoke",
+    "test:smoke-headed": "playwright test --project=smoke --headed",
+    "test:smoke-regression": "playwright test --project=smoke-and-regression",
+    "test:smoke-regression-headed": "playwright test --project=smoke-and-regression --headed",
+    "test:auth": "playwright test --project=auth",
+    "test:deposit": "playwright test --project=deposit",
+    "test:wallet": "playwright test --project=wallet",
+    "test:security": "playwright test --project=security",
+    "test:firefox": "playwright test --project=firefox",
+    "test:business": "playwright test --project=business-commands",
+    "test:business-headed": "playwright test --project=business-commands --headed",
+    "test:list": "playwright test --list",
+    "test:install": "playwright install",
+    "test:codegen": "playwright codegen",
+    "test:trace": "playwright show-trace"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

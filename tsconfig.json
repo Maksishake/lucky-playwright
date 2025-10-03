@@ -1,0 +1,84 @@
+{
+  "compilerOptions": {
+    // ========== ОСНОВНЫЕ НАСТРОЙКИ ==========
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "allowJs": true,
+    "checkJs": false,
+    
+    // ========== СТРОГАЯ ТИПИЗАЦИЯ ==========
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": false, // Отключено для совместимости с Playwright
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": false, // Отключено для Page Objects
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": false, // Отключено для гибкости
+    "exactOptionalPropertyTypes": false, // Отключено для совместимости
+    
+    // ========== РАЗРЕШЕНИЕ МОДУЛЕЙ ==========
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "@pages/*": ["./pages/*"],
+      "@business/*": ["./business/*"],
+      "@tests/*": ["./tests/*"],
+      "@helpers/*": ["./helpers/*"],
+      "@config/*": ["./config/*"],
+      "@test-data/*": ["./test-data/*"]
+    },
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    
+    // ========== ВЫВОД ==========
+    "declaration": false,
+    "declarationMap": false,
+    "sourceMap": true,
+    "removeComments": false,
+    "importHelpers": false,
+    "downlevelIteration": true,
+    
+    // ========== ДОПОЛНИТЕЛЬНЫЕ ПРОВЕРКИ ==========
+    "noUnusedLocals": false, // Отключено для тестов
+    "noUnusedParameters": false, // Отключено для тестов
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "noEmit": true,
+    
+    // ========== PLAYWRIGHT СПЕЦИФИЧНЫЕ ==========
+    "skipLibCheck": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false
+  },
+  
+  // ========== ВКЛЮЧАЕМЫЕ ФАЙЛЫ ==========
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js",
+    "**/*.jsx",
+    "playwright.config.ts",
+    "playwright/**/*.ts"
+  ],
+  
+  // ========== ИСКЛЮЧАЕМЫЕ ФАЙЛЫ ==========
+  "exclude": [
+    "node_modules",
+    "test-results",
+    "playwright-report",
+    "**/*.spec.ts.map",
+    "**/*.test.ts.map"
+  ],
+  
+  // ========== НАСТРОЙКИ ДЛЯ ТЕСТОВ ==========
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": "node"
+  }
+}
