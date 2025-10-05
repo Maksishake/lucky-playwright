@@ -1,7 +1,8 @@
 import { defineConfig, devices } from '@playwright/test';
-import { Routes } from './config/routes';
-import { TestConfig } from './config/test-config';
-import { EnvironmentConfig } from './config/environments';
+import { Routes } from '@config/routes';
+import { TestConfig } from '@config/test-config';
+import * as dotenv from 'dotenv';
+dotenv.config();
 
 export default defineConfig({
   testDir: './tests',
@@ -17,7 +18,7 @@ export default defineConfig({
   ],
   
   use: {
-    baseURL: EnvironmentConfig.getBaseUrl(),
+    baseURL: process.env.BASE_URL,
     trace: TestConfig.reporting.trace,
     screenshot: TestConfig.reporting.screenshots as 'on' | 'off' | 'only-on-failure',
     video: TestConfig.reporting.video as 'on' | 'off' | 'retain-on-failure' | 'on-first-retry',

@@ -1,0 +1,147 @@
+/**
+ * Pagination Button Atom
+ * Атомарный компонент для кнопки пагинации
+ */
+
+import { Page, Locator } from '@playwright/test';
+import { BaseComponent } from '@core/abstract/base.component';
+import { logger } from '@utils/logger.util';
+
+export class PaginationButtonComponent extends BaseComponent {
+  constructor(page: Page, paginationButton: Locator) {
+    super(page, paginationButton, 'Pagination Button');
+  }
+
+  // ========== БАЗОВЫЕ МЕТОДЫ ==========
+
+  /**
+   * Проверить видимость компонента
+   */
+  async isVisible(): Promise<boolean> {
+    try {
+      return await this.root.isVisible();
+    } catch {
+      return false;
+    }
+  }
+
+  /**
+   * Проверить загрузку компонента
+   */
+  async isLoaded(): Promise<boolean> {
+    try {
+      return await this.root.isVisible();
+    } catch {
+      return false;
+    }
+  }
+
+  /**
+   * Дождаться загрузки компонента
+   */
+  async waitForLoad(): Promise<void> {
+    await this.root.waitFor({ state: 'visible', timeout: 5000 });
+    logger.success('Pagination button component loaded');
+  }
+
+  // ========== БАЗОВЫЕ ДЕЙСТВИЯ ==========
+
+  /**
+   * Кликнуть на кнопку пагинации
+   */
+  async click(): Promise<void> {
+    logger.step('Clicking pagination button');
+    await this.root.scrollIntoViewIfNeeded();
+    await this.root.click();
+    await this.page.waitForLoadState('domcontentloaded');
+  }
+
+  /**
+   * Навести курсор на кнопку
+   */
+  async hover(): Promise<void> {
+    logger.step('Hovering over pagination button');
+    await this.root.hover();
+  }
+
+  // ========== ПОЛУЧЕНИЕ ДАННЫХ ==========
+
+  /**
+   * Получить текст кнопки
+   */
+  async getText(): Promise<string> {
+    try {
+      return await this.root.textContent() || '';
+    } catch {
+      return '';
+    }
+  }
+
+  /**
+   * Получить номер страницы
+   */
+  async getPageNumber(): Promise<number | null> {
+    try {
+      const text = await this.getText();
+      return text ? parseInt(text, 10) : null;
+    } catch {
+      return null;
+    }
+  }
+
+  /**
+   * Получить значение атрибута
+   */
+  async getAttribute(name: string): Promise<string | null> {
+    try {
+      return await this.root.getAttribute(name);
+    } catch {
+      return null;
+    }
+  }
+
+  // ========== ПРОВЕРКИ СОСТОЯНИЯ ==========
+
+  /**
+   * Проверить, активна ли кнопка
+   */
+  async isActive(): Promise<boolean> {
+    try {
+      const classList = await this.root.getAttribute('class');
+      return classList?.includes('active') || false;
+    } catch {
+      return false;
+    }
+  }
+
+  /**
+   * Проверить, отключена ли кнопка
+   */
+  async isDisabled(): Promise<boolean> {
+    return await this.root.isDisabled().catch(() => false);
+  }
+
+  /**
+   * Проверить, является ли кнопка "Назад"
+   */
+  async isPrevButton(): Promise<boolean> {
+    try {
+      const classList = await this.root.getAttribute('class');
+      return classList?.includes('prev') || false;
+    } catch {
+      return false;
+    }
+  }
+
+  /**
+   * Проверить, является ли кнопка "Вперед"
+   */
+  async isNextButton(): Promise<boolean> {
+    try {
+      const classList = await this.root.getAttribute('class');
+      return classList?.includes('next') || false;
+    } catch {
+      return false;
+    }
+  }
+}

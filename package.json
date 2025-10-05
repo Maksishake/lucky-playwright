@@ -1,36 +1,49 @@
 {
-  "name": "lucky-manual-1",
+  "name": "lucky-playwright",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Playwright E2E Testing Framework for Lucky Casino",
+  "private": true,
+  "type": "module",
   "scripts": {
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "test:ui": "playwright test --ui",
     "test:debug": "playwright test --debug",
     "test:report": "playwright show-report",
-    "test:smoke": "playwright test --project=smoke",
-    "test:smoke-headed": "playwright test --project=smoke --headed",
-    "test:smoke-regression": "playwright test --project=smoke-and-regression",
-    "test:smoke-regression-headed": "playwright test --project=smoke-and-regression --headed",
-    "test:auth": "playwright test --project=auth",
-    "test:deposit": "playwright test --project=deposit",
-    "test:wallet": "playwright test --project=wallet",
-    "test:security": "playwright test --project=security",
-    "test:firefox": "playwright test --project=firefox",
-    "test:business": "playwright test --project=business-commands",
-    "test:business-headed": "playwright test --project=business-commands --headed",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:regression": "playwright test --grep @regression",
+    "test:critical": "playwright test --grep @critical",
+    "test:auth": "playwright test tests/ui/auth",
+    "test:wallet": "playwright test tests/ui/wallet",
+    "test:components": "playwright test tests/components",
+    "test:modals": "playwright test tests/components/modals",
+    "test:support": "playwright test tests/pages/support",
     "test:list": "playwright test --list",
-    "test:install": "playwright install",
+    "test:install": "playwright install --with-deps",
     "test:codegen": "playwright codegen",
-    "test:trace": "playwright show-trace"
+    "test:trace": "playwright show-trace",
+    "type-check": "tsc --noEmit",
+    "lint": "tsc --noEmit",
+    "format": "prettier --write \"**/*.{ts,json,md}\"",
+    "format:check": "prettier --check \"**/*.{ts,json,md}\""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "playwright",
+    "e2e",
+    "testing",
+    "automation"
+  ],
+  "author": "Lucky Team",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.55.1",
     "@types/node": "^20.0.0",
+    "dotenv": "^17.2.3",
+    "playwright": "^1.55.1",
     "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
   }
 }
